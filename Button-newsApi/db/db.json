@@ -1,0 +1,44 @@
+{
+    "news": [
+       {
+          "author": "John Kruzel",
+          "category": [
+             "politics"
+          ],
+          "description": "A judge in Kentucky on Monday night revived the state’s near-total ban on abortion, the latest legal development following the U.S. Supreme Court’s overturning of Roe v. Wade.\n\nThe ruling by a state a...",
+          "id": "cde311f9-7d60-4c5e-a434-45e3165186c0",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2022/07/13fc4cdd6f5a45d98659af6a8280d462.jpg?w=1280",
+          "language": "en",
+          "published": "2022-08-02 16:19:00 +0000",
+          "title": "Kentucky judge revives state's near-total abortion ban",
+          "url": "https://thehill.com/regulation/court-battles/3584282-kentucky-judge-revives-states-near-total-abortion-ban/"
+       },
+       {
+          "author": "RNS",
+          "category": [
+             "exchange",
+             "stock"
+          ],
+          "description": "London Stock Exchange plc is not responsible for and does not check content on this Website. Website users are responsible for checking content. Any news item (including any prospectus) which is addre...",
+          "id": "e9007443-f62f-4562-9860-988f8447454f",
+          "image": "https://www.londonstockexchange.com/favicon.ico",
+          "language": "en",
+          "published": "2022-08-02 16:16:41 +0000",
+          "title": "Holding(s) in Company, price: 3,206.00 + -1.66%",
+          "url": "https://www.londonstockexchange.com/news-article/CWK/holding-s-in-company/15568134"
+       },
+       {
+          "author": "cnbc",
+          "category": [
+             "general"
+          ],
+          "description": "WASHINGTON -- House Speaker Nancy Pelosi landed in Taiwan's capital of Taipei on Tuesday night, kicking off a controversial visit that had already strained the testy relationship between Beijing and Washington before it even began.",
+          "id": "c7d866c2-8259-407a-b56b-5f6464c2629f",
+          "image": "https://image.cnbcfm.com/api/v1/image/107097500-1659454116008-gettyimages-1242266476-AFP_32FV68D.jpeg?v=1659454190&w=1920&h=1080",
+          "language": "en",
+          "published": "2022-08-02 16:15:18 +0000",
+          "title": "China ratchets up military and economic pressure on Taiwan as Pelosi begins her visit",
+          "url": "https://www.cnbc.com/2022/08/02/china-ratchets-up-military-and-economic-pressure-on-taiwan-as-pelosi-begins-her-visit-.html"
+       }      
+    ]
+ }
